@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="category">
+        <item>教你打造绚丽多彩的TextView</item>
+        <item>X5内核，JSBridge</item>
+        <item>WindowManager，开发悬浮窗</item>
+        <item>炫酷ViewPager指示器效果(贝塞尔曲线)</item>
+        <item>SuperTextView\nSuperButton</item>
+        <item>使用TabLayout看这篇就够了</item>
+        <item>TextView实现打印机效果</item>
+        <item>仿微信支付密码输入框</item>
+        <item>沉浸式状态栏 ImmersionBar</item>
+    </string-array>
+
+    <string-array name="link">
+        <item>https://www.jianshu.com/p/84067ad289d2</item>
+        <item>http://blog.csdn.net/sbsujjbcy/article/details/50752595</item>
+        <item>https://www.jianshu.com/u/dbae9ac95c78</item>
+        <item>https://keep2iron.github.io/2017/07/31/炫酷ViewPager指示器效果/</item>
+        <item>https://www.jianshu.com/p/1a5303258754</item>
+        <item>https://www.jianshu.com/p/be1e8a1da639</item>
+        <item>https://www.jianshu.com/p/4d987769785c</item>
+        <item>https://www.jianshu.com/p/4e9d1a9b60d7</item>
+        <item>https://www.jianshu.com/p/2a884e211a62</item>
+    </string-array>
+
+    <string-array name="activity">
+        <item>null</item>
+        <item>null</item>
+        <item>null</item>
+        <item>null</item>
+        <item>com.adrian.own.learn.function.supertextview.SuperTextViewActivity</item>
+        <item>null</item>
+        <item>null</item>
+        <item>null</item>
+        <item>null</item>
+    </string-array>
+
+</resources>
